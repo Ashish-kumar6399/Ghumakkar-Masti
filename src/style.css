@@ -1,0 +1,204 @@
+
+
+*{
+    font-family: "Roboto", sans-serif;
+
+}
+
+.herooo{
+    margin-left: 330px;
+    position: absolute;
+    top: 85%;
+    width: 1000px;
+    
+    
+}
+
+
+.cards-wrapper{
+    display: flex;
+}
+.card{
+    margin: 0.5em;
+    width: calc(100/3);
+
+}
+
+.hot{
+    width: 1200px;
+}
+
+.ash{
+text-decoration: none;
+}
+
+
+
+
+
+.ash:hover{
+  border-bottom: 4px solid rgb(245, 106, 13);
+
+}
+
+.ash_link{
+  text-decoration: none;
+color: black;
+}
+
+
+
+  .products{
+    text-decoration: none;
+  }
+
+  .design{
+    margin-left: 1000px;
+  }
+
+ 
+
+
+  .logo{
+    height: 90px;
+    width: 180px;
+    margin-top: -8px;
+    border-radius: 8px;
+  }
+
+
+  .navv{
+    height: 100px;
+  }
+  
+
+  .contact{
+    margin-top: 35px;
+  }
+
+ .ab {
+  height: 700px;
+ }
+
+ .btnn{
+  margin-top:26px;
+  background-color: rgb(70, 70, 123);
+  margin-left: 550px;
+  height: 50px;
+  color: white;
+  font-weight: bolder;
+  width: 150px;
+}
+
+ .btnn:hover{
+  background-color: grey;
+ }
+ .btnn_two{
+  margin-top:26px;
+  background-color: rgb(70, 70, 123);
+  margin-left: 750px;
+  height: 50px;
+  color: white;
+  font-weight: bolder;
+  width: 150px;
+  font-size: larger;
+}
+
+ .btnn_two:hover{
+  background-color: grey;
+ }
+
+ .aaaa:hover{
+  background-color: #A0A0A0	;
+  width: 550px;
+ }
+
+ .cardd{
+  margin-top: 20px;
+ }
+ .cards{
+  margin-top: 280px;
+ }
+
+ .icons{
+  position: relative;
+  top: 28%;
+  left: -15%;
+
+ }
+
+ .check_icon {
+  font-size: 2.8rem;
+  color: rgb(1, 123, 252);
+ }
+ 
+ .icons_contact{
+  position: relative;
+  top: 40%;
+  left: -15%;
+
+ }
+
+ .dddd{
+  margin-left: 300px;
+  width: 1500px;
+ }
+ .icons_contact_two{
+  position: relative;
+  top: 25%;
+  left: -15%;
+
+ }
+ .icons_contact_three{
+  position: relative;
+  top: 40%;
+  left: -15%;
+
+ }
+
+ .number{
+  margin-top: -1rem;
+ }
+
+ .email{
+  margin-top: 1.5rem;
+ }
+
+ .check_icon_conatct {
+  font-size: 2.8rem;
+  color: rgb(1, 123, 252);
+ }
+ 
+ .icon_second{
+  font-size: 2.3rem;
+  margin-top: -1.1rem;
+  color: rgb(1, 123, 252);
+
+
+ }
+
+ .icon_third{
+  font-size: 2.3rem;
+  margin-top: -1rem;
+  color: rgb(1, 123, 252);
+
+ }
+
+ .rrr{
+  margin-left: 50px;
+ }
+
+ .imaa{
+  background-image: url("./images/slide1.jpg");
+position: relative;
+background-size: cover;
+background-position: center;
+padding-top: 100px;
+margin-top: 10px;
+height:500px;
+ }
+
+
+ .sbi {
+  height: 375px;
+ }
